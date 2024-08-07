@@ -21,17 +21,6 @@ This is exactly what the description says it is.
   - `Scoreboard`
   - `Economy`
   - `PvP Stats`
-  - `World Separation Bungeecord` *(from vBungee in vCores)*
-
-# Servers:
-With an improved version of **vBungee servers**, yoCore has a world separation protocol that allows you to have multiple "servers" in one single server, with chat separation, tab separation (including tab completing in chat), etc.
-
-### Bungee Commands:
-  - `/hub`
-  - `/glist`
-  - `/find`
-  - `/send`
-  - `/server`
 
 # Commands (Alphabetical Order):
   - `/adminchat`
