@@ -1,16 +1,13 @@
 # yoCore
-Better and revised version of [vCores](https://github.com/Yochran/vCores), with superior coding, bug patches, and all combined into 1 single plugin.
+Custom version of my public plugin, yoCore. 
+
+***Public Version: [spigot](https://www.spigotmc.org/resources/1-8-1-17-1-%E2%9C%85-yocore-ranks-punishments-essentials-and-more.94564/)!***
 
 ### Languages:
-  - Java [(Paper API)](https://papermc.io)
+  - Java [(Paper API 1.16)](https://papermc.io)
 
 ### Dependencies:
   - None
-
-### Info:
-This is exactly what the description says it is.
-
-***Find this plugin on [spigot](https://www.spigotmc.org/resources/1-8-1-17-1-%E2%9C%85-yocore-ranks-punishments-essentials-and-more.94564/)!***
 
 # General Features:
   - `Punishments`
@@ -110,6 +107,7 @@ This is exactly what the description says it is.
   - `/user`
   - `/vanish`
   - `/warn`
+  - `/setspawn`
 
 # Chat Prefixes:
 Using `#, @, $` or `!` before a message *(with a space)* puts you in a staff chat channel.
@@ -121,7 +119,7 @@ Using `#, @, $` or `!` before a message *(with a space)* puts you in a staff cha
   - `! <message>` (Management Chat)
 
 # Scoreboard:
-yoCore has a scoreboard, which can be per-world or global. You can use placeholders from this plugin, however, you cannot use placeholders from any other plugin **yet.** (PlaceholderAPI support will be added in the future)
+yoCore has a custom scoreboard. You can use placeholders from this plugin, however, you cannot use placeholders from any other plugin **yet.** (PlaceholderAPI support will be added in the future)
 
 # Nametags & Tab List
 yoCore has custom nametags and a custom tab list for the ranks as well as custom nametags for vanished, modmoded, and frozen players. All 3 of these are customizable in the [config.yml](https://github.com/Yochran/yoCore/blob/main/resources/config.yml).
