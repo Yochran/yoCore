@@ -1,5 +1,5 @@
 # yoCore
-Custom version of my public plugin, yoCore. 
+Custom version of my public plugin, yoCore. The public version is no longer supported, I will only be working on this version. I may be looking into bungeecord support & Mongo/SQL DB support later on down the road.
 
 ***Public Version: [spigot](https://www.spigotmc.org/resources/1-8-1-17-1-%E2%9C%85-yocore-ranks-punishments-essentials-and-more.94564/)!***
 
